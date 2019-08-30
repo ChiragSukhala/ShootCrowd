@@ -17,7 +17,7 @@ A Competitive Programing Question's solution using Linked List in PHP and others
 
   PHP:
     This php file is ment to be run in terminal rather than in a web browser. just open terminal in the same directory and execute 
-    ```bash
+    ```
     "php ShootCrowd.php"
     ```
     Then enter the value of N (numberof people in circle) and then you will get your answer.
@@ -25,5 +25,4 @@ A Competitive Programing Question's solution using Linked List in PHP and others
  ## Contributing
     
    The same Problem is solved by @prateektakoria using C++ , his code is also provided in case if you wonder. Please feel free to add solutions in other languages too :)
-   ### CPP 
-   [@prateektakoria](https://github.com/prateektakoria/)
+   #### CPP : [@prateektakoria](https://github.com/prateektakoria/)
