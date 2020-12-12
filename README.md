@@ -12,7 +12,9 @@ A Competitive Programing Question's solution using Linked List in PHP and others
   
   I innitially made this in PHP, taking Linked list refrence from  @Sameer Borate | codediesel.com . I know PHP is not a typical language for competitive but see it works.
   
-  
+ Another solution is, Considering k is the closest power of 2 and n is the given number.
+Answer will be : 2(n - 2^k) + 1. (Full explaination is in Python solution.)
+ 
 ## Instruction(s):
 
   PHP:
@@ -24,5 +26,6 @@ A Competitive Programing Question's solution using Linked List in PHP and others
     
  ## Contributing
     
-   The same Problem is solved by @prateektakoria using C++ , his code is also provided in case if you wonder. Please feel free to add solutions in other languages too :)
+   The same Problem is solved by these people, code is also provided in case if you wonder. Please feel free to add solutions in other Pogramming languages too :)
    #### CPP : [@prateektakoria](https://github.com/prateektakoria/)
+   #### Python : [@kritikaparmar-programmer](https://github.com/kritikaparmar-programmer/)
