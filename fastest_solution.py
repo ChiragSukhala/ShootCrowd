@@ -1,4 +1,5 @@
 ''' Beware, Fastest solution upcoming! '''
+import math
 
 n = int(input("Enter number of people : "))
 
